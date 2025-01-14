@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I'm Matt. 👋
 
-<!--
-**mnstucky/mnstucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building banking software in **.NET, C#, and SQL Server**.
+- 🌱 I’m currently learning **Rust**.
+- 😄 Pronouns: **he/him**.
+- ⚡ Fun fact: I used to be a lawyer!
+\
+\
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,bash,cs,cpp,css,dotnet,git,github,html,js,jest,linux,materialui,mysql,neovim,nodejs,npm,postman,qt,react,redux,rider,rust,ts,ubuntu,visualstudio,vscode&perline=14" />
+  </a>
