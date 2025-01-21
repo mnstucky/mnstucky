@@ -1,6 +1,6 @@
 # Hi, I'm Matt. 👋
 
-- 🔭 I’m currently working on building banking software in **.NET, C#, and SQL Server**.
+- 🔭 I’m a senior software engineer currently working on building banking software in **.NET, C#, and SQL Server**.
 - 🌱 I’m currently learning **Rust**.
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: I used to be a lawyer!
